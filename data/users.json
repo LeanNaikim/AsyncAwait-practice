@@ -1,61 +1,61 @@
 [
     {
       "_id": "63364ac209dba475b90166ff",
-      "name": "Rung",
+      "name": "EXO",
       "code": "0042",
       "image": "./image/p1.jpg" 
     },
     {
       "_id": "6329820009dba475b9faf355",
-      "name": "Moa Sotheam",
+      "name": "Kim jongin",
       "code": "0041",
       "image": "./image/p2.jpg" 
     },
     {
       "_id": "62ee400a690d327e94df0d6a",
-      "name": "Bunly",
+      "name": "Suho",
       "code": "0040",
       "image": "./image/p3.jpg" 
     },
     {
       "_id": "62ede242690d327e94de974b",
-      "name": "Try Sopheap",
+      "name": "Kim jongdea",
       "code": "0039",
       "image": "./image/p4.jpg" 
     },
     {
       "_id": "62e8bc10e0567858243c80dc",
-      "name": "Limheng",
+      "name": "Kim minsoek",
       "code": "0038",
       "image": "./image/p5.jpg" 
     },
     {
       "_id": "62e79ce5f02a3572a4e03679",
-      "name": "Srey Pov",
+      "name": "Do kyungsoo",
       "code": "0037",
       "image": "./image/p6.jpg" 
     },
     {
       "_id": "62be7158d8f13d7c33063149",
-      "name": "Bun Chan Ousphea",
+      "name": "Baek Hyun",
       "code": "0036",
       "image": "./image/p5.jpg"
     },
     {
       "_id": "62be712ed8f13d7c33063143",
-      "name": "Doung Sovann",
+      "name": "Park Chanyeol",
       "code": "0035",
       "image": "./image/p1.jpg" 
     },
     {
       "_id": "62bbcf9cd0cfeb6d2a2f86dc",
-      "name": "Chan Dara",
+      "name": "Lay Zhang",
       "code": "0034",
       "image": "./image/p2.jpg" 
     },
     {
       "_id": "62bbce2dd0cfeb6d2a2f8557",
-      "name": "Nget Mony",
+      "name": "Kim jongin",
       "code": "0033",
       "image": "./image/p3.jpg" 
     }
